@@ -10,7 +10,7 @@ const chalk = require('chalk')
       let count = 0;
    
       if(answer.question1=='Banglore is the capital of karnataka'){
-        console.log('q1')
+        
          count++;
          
      }
