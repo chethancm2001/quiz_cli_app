@@ -31,7 +31,7 @@ const chalk = require('chalk')
         count++;
         
      }
-     console.log(chalk.green(`you answerd ${count} out of 4`))
+     console.log(chalk.green(`you answerd ${count} out of 4 correctly`))
     })
     
  }
